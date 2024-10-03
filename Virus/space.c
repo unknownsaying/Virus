@@ -2,6 +2,7 @@
 #include "abcdef.c"
 #include "DNA.c"
 #include "RNA.c"
+#include "string.ts"
 const t1 = 1234567;
 const t2 = 2345678;
 const t3 = 3456789;
