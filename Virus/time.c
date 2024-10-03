@@ -1,3 +1,4 @@
+#include "string.ts"
 void time()
 { 
   const t1 = 1234567;
