@@ -1,6 +1,6 @@
 # Virus
 Wooden Horse
-A very powerful influence(infected) Virus
+A very powerful influence(infected) Virus but harmless in all direction
 
 for goto break continue
              
