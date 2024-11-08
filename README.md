@@ -9,7 +9,7 @@ auto union switch case
 typedef struct static const
 
 switch case if else 
-int long float double signed unsigned
+short int float double long signed unsigned register
 
 do while char enum
 
