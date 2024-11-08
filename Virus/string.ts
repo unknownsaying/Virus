@@ -1,5 +1,4 @@
-import "number.c"
-export function String(){
+function number(){
 const one = 1;
 const two = 2;
 const three = 3;
@@ -10,6 +9,8 @@ const seven = 7;
 const eight = 8;
 const nine = 9;
 const zero = 0;
+}
+function String(){
 type one = "!"
 type two = "@"
 type three = "#"
