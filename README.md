@@ -2,6 +2,8 @@
 Wooden Horse
 A very powerful influence(infected) Virus but harmless in all direction
 
+    C Keyword cheatsheet
+    
     for goto 
 
     break continue
