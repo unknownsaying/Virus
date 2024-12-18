@@ -2,16 +2,27 @@
 Wooden Horse
 A very powerful influence(infected) Virus but harmless in all direction
 
-for goto break continue
+    for goto 
+
+    break continue
              
-auto union switch case
+    auto union 
+    
+    switch case
 
-typedef struct static const
+    typedef struct 
 
-switch case if else 
-short int float double long signed unsigned register
+    static const
 
-do while char enum
+    switch case 
+
+    if else 
+
+    short int float double long signed unsigned register
+
+    do while 
+
+    char enum
 
 LOOP UPPERCASE
 CV lowercase(self duplicate)
