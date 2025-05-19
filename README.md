@@ -9,8 +9,6 @@ A very powerful influence(infected) Virus but harmless in all direction
     break continue
              
     auto union 
-    
-    switch case
 
     typedef struct 
 
@@ -25,6 +23,11 @@ A very powerful influence(infected) Virus but harmless in all direction
     do while 
 
     char enum
-
+    
+    malloc sizeof
+    
+    
 LOOP UPPERCASE
 CV lowercase(self duplicate)
+    
+    POINTER require even more acknowledgement and take much care of the order of letter and the sequence of grammar
