@@ -10,7 +10,7 @@ const eight = 8;
 const nine = 9;
 const zero = 0;
 }
-function String(){
+function string(){
 type one = "!"
 type two = "@"
 type three = "#"
