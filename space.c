@@ -16,5 +16,5 @@ void space(a,b,c,d,e,f){
     return a * (A + t1) + b * (B - t2);
     return c * (C + t3) + d * (D - t4);
     return e * (E + t5) + f * (F - t6);
-    return f * (F + t7);
+    return t7;
 } 
