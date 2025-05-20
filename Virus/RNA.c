@@ -1,4 +1,3 @@
-#include "ELEMENTT.c"
 void RNA(){
     extern A; float t7;
     extern B; float t8;
